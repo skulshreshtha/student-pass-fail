@@ -1,0 +1,2 @@
+# About the project
+The project aims to predict whether a student is likely to pass/fail dependent upon characteristics of program enrolled, demographics, and invigilator. Currently the dataset presents no historical data about individual students, therefore forcing the model to generalize how a certain demographic of student body does in different types of program/invigilator environments.
